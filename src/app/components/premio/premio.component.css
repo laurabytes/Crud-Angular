@@ -1,0 +1,15 @@
+.nav{
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.filt{
+  display: flex;
+  align-items: center;
+}
+
+.salvar{
+  display: flex;
+  align-items: center;
+}
